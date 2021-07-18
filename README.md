@@ -3,6 +3,8 @@
 
 https://github.com/F-star/web-front-end-question/issues
 
+[欢迎提交你想我分析的面试题目！](https://github.com/F-star/web-front-end-question/issues/11)
+
 通过 Github issue 的方式更新解答各种 Web 前端面试题。
 
 原本是通过个人博客的方式进行更新的，后来发现有点繁琐（需要部署，且不方便检索），所以改用 issue 的方式进行更新了。
